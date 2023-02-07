@@ -1,1 +1,2 @@
 # RadarChartPlayerComparison
+In this repository I have created a comparison radar chart using python through Visual Studio 2022. The chart shows 2 premier league attackers, Roberto Firmino and Gabriel Jesus. Both are Brazilian attackers that play a primary role in their respective teams. The data analyzed was found through https://fbref.com/en/comps/9/stats/Premier-League-Stats and looks at goal scoring statistics such as goals, expected goals, shots on target, goals per shot on target, etc.
